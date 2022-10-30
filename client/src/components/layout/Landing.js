@@ -15,7 +15,7 @@ class Landing extends Component {
             <p className="flow-text grey-text text-darken-1">
               A full-stack app with user authentication via passport.
               <br />
-              Made By:- <b>Rahul Singh Thakur</b>
+              Made By:- <b>Akshat Bansal</b>
             </p>
             <br />
             <div className="col s6">
